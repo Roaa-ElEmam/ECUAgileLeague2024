@@ -4,9 +4,9 @@ Rpository for practicing git pull, push, making first pull request and working w
 📋 Task Instructions:
 1. **Fork the repository**.
 2. **Clone the Forked Repository**, so you can work on the code locally on your machine.
-3. **Edit the code**, by adding your block in the league with your name as a header, containing your favorite quote, your linkedin account and any additions you want to add as discribed bellow in the [Member Block example](https://github.com/JannaIbrahim/ECUAgileLeague2024?tab=readme-ov-file#member-block-example) .
+3. **Edit the code**, by adding your block in the league with your name as a header, containing your favorite quote, your linkedin account and any additions you want to add as described bellow in the [Member Block example](https://github.com/JannaIbrahim/ECUAgileLeague2024?tab=readme-ov-file#member-block-example) .
 4. **Commit and Push Changes**, to save the changes to the forked repository on Github.
-5. **Create a Pull Request**,make sure to write your **Full Name** and **Student ID** in the **pull request discription**🔖.
+5. **Create a Pull Request**,make sure to write your **Full Name** and **Student ID** in the **pull request description**🔖.
 6. 💡 **Note:** Before pushing your changes, pull any new changes from the original repository to your local branch,Resolve any conflicts if they arise and commit Then push your changes.
 
 ---
@@ -19,4 +19,11 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+### Roaa ElEmam Mohamed - 192100083
+[Linkedin] (https://www.linkedin.com/in/roaa-emam-7a33511b1/)
 
+[Github] (https://github.com/Roaa-ElEmam)
+
+**Quote:** _My courage always rises at every attempt to intimidate me_
+
+Elizabeth Bennet, Pride and Prejudice.
